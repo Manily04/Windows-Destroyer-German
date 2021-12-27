@@ -13,3 +13,6 @@ Sobald die "Run Me!" Datei ausgeführt wurde und der UAC als Admin bestätigt wu
 # Kann man den PC retten?
 Windows selber kann sich nicht mehr reparieren, was heißt das man die Festplatte an einen anderen PC Anhängen müsste um seine Dateien zu sichern.
 Windows muss dann neu installiert werden. Andere Festplatten werden von dem Tool nicht betroffen
+
+## Wichtig
+Ab [v.2.8](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.8) wird versucht Persönliche Dateien zu löschen, wenn das nicht das Ziel ist verwende [v.2.7](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.7)
