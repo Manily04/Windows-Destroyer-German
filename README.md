@@ -15,4 +15,4 @@ Windows selber kann sich nicht mehr reparieren, was heißt das man die Festplatt
 Windows muss dann neu installiert werden. Andere Festplatten werden von dem Tool nicht betroffen
 
 ## Wichtig
-Ab [v.2.8](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.8) wird versucht Persönliche Dateien zu löschen, wenn das nicht das Ziel ist verwende [v.2.7](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.7)
+Ab [v.2.8](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.8) und darüber wird versucht Persönliche Dateien zu löschen, wenn das nicht das Ziel ist verwende [v.2.7](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.7)
