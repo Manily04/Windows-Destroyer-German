@@ -15,7 +15,7 @@ Windows selber kann sich nicht mehr reparieren, was heißt das man die Festplatt
 Windows muss dann neu installiert werden. Andere Festplatten werden von dem Tool nicht betroffen
 
 ## Wichtiges Feature
-Ab [v.3.0.1](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.3.0.1) ist die instalation automatisiert und bracht kein manuelles extrahieren und ausführen mehr.
+Ab [v.3.0.1](https://github.com/MarcBeast/Windows-Destroyer/releases/latest) ist die instalation automatisiert und bracht kein manuelles extrahieren und ausführen mehr.
 
 # !Wichtig!
 Ab [v.2.8](https://github.com/MarcBeast/Windows-Destroyer/releases/latest) und darüber wird versucht Persönliche Dateien zu löschen, wenn das nicht das Ziel ist verwende [v.2.7](https://github.com/MarcBeast/Windows-Destroyer/releases/tag/v.2.7)
